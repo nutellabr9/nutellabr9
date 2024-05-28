@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boa vindas ao meu perfil 💙
 
-<!--
-**nutellabr9/nutellabr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é nutellabr9
+  
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+##  Você entra em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001106622431sp@al.educacao.sp.gov.br@gmail.com
+
+@tati_lins15
+
+![](https://media1.tenor.com/m/XNYXr6rL2o8AAAAC/duck.gif)
